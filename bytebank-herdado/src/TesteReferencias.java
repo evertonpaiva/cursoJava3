@@ -13,7 +13,7 @@ public class TesteReferencias {
 		EditorVideo ev = new EditorVideo();
 		ev.setSalario(2500.0);
 		
-		Funcionario d = new Designer();
+		Designer d = new Designer();
 		d.setSalario(2000.0);
 		
 		ControleBonificacao controle = new ControleBonificacao();
